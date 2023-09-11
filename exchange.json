@@ -1,1 +1,11 @@
-{"main":"test-customer-dpa.raml","name":"test-customer-dpa","classifier":"raml","tags":[]}
+{
+  "main" : "test-customer-dpa.raml",
+  "name" : "test-customer-dpa",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "55c060a0-c1a3-478c-a788-bc7ae0dafcb3",
+  "assetId" : "test-customer-dpa",
+  "version" : "1.0.0",
+  "apiVersion" : "v1",
+  "dependencies" : [ ]
+}
